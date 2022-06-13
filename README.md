@@ -1,6 +1,6 @@
 ## Leng Jing 冷靖
 
-I am a graduate student from the School of Life Sciences, Fudan University.
+No.2005, Songhu Road, Shanghai, China | +86-13220929029 | 20210700129@fudan.edu.cn
 
 ### Markdown
 
