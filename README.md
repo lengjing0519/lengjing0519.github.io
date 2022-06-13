@@ -2,7 +2,7 @@
 
 No.2005, Songhu Road, Shanghai, China | +86-13220929029 | 20210700129@fudan.edu.cn
 
-![Markdown](https://github.com/lengjing0519/lengjing0519.github.io/blob/ed9307e17e89a086e89c1936d33cf193f82047c0/personal%20identification%20photo.jpg#pic_left=300*300)
+![Markdown](https://github.com/lengjing0519/lengjing0519.github.io/blob/ed9307e17e89a086e89c1936d33cf193f82047c0/personal%20identification%20photo.jpg#pic_left=100*100)
 
 ### Markdown
 
