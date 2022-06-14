@@ -70,8 +70,20 @@ In this study, our goal was to provide new clues for pathway research of mental 
 ### EXTRACURRICULAR ACTIVITIES  
 
 **Volunteer**, Zujia Museum, Fudan University &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; September 2019 - December 2019  
-- Volunteered in Zujia museum; guided and interpreted for the visitors; won the Excellent Volunteer Certificate.  
+- Volunteered in Zujia museum; guided and introduced for the visitors; won the Excellent Volunteer Certificate.  
 
 **Member**, T.F Cosplay Society, Fudan University &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; September 2017 - January 2019  
-- Participated in the 20 ^ th ^ Shanghai Comic Up competition and entered the final; prepared for and performed on major school events
+- Participated in the 20th Shanghai Comic Up competition and entered the final; prepared for and performed on major school events.  
+
+**Minster**, Arts Division, Student Union, Fudan University &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; February 2017 - July 2017  
+- Outreached for school activities; supported other departments in major activities; won the Excellent Cadre.  
+
+**Conductor**, Shanghai Urban Planning Exhibition Hall, Student Union, Fudan University &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; September 2016 - June 2017  
+- Volunteer at the venue; guided and introduced for the visitors; received the volunteer certificate.
+
+---
+### SKILLS & INTERESTS
+**Computer:** Linux, Python, R programming, Matlab, Blast, Mcscanx, Diamond, phylomcl, Microsoft Office, Mega, PowerLab Software, E-Prime, Image-J, SPSS   
+**Technical:** Single cell sequencing analysis, Gene family analysis, Spatial transcriptome analysis, ,Centrifuge, UV-VIS Spectrometer, Fluorescence Spectrometer, Fluorescence Microscope, PowerLab Hardware, Agarose Gel apparatus, Microbial RGB kit   
+**Interests:** Chess (National Level II), Badminton, Sketch, Watercolor (more than 6 years practice and training)
 
