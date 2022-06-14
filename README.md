@@ -35,7 +35,7 @@ Currently writing / The first author
 ### RESEARCH EXPERIENCE  
 
 **Fudan University** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; September 2021 - June 2023  
-*Researcher* **under Qi Ji**  
+*Researcher* **under Pro. Qi Ji**  
 **Project: Analysis of functional differentiation of gene families in spatial transcriptome of mouse embryos**  
 In this study, we used the single-cell spatial transcriptome technique combined with own designed spatial dynamic programming method and clustering method based on both gene expression and space location. By integrating mouse embryo datasets at four stages with common data set, we are able to find functionally differentiated gene families , such as the HOX gene.  
 - Traditional spatial transtriptome data workflow: quality control; normalization; PCA/U-MAP/T-SNE dimensional reduction; own clustering method not yet published; find marker gene; cell type annotation; pseudotime and cell trajectory analysis; GO/KEGG analysis. 
@@ -43,12 +43,31 @@ In this study, we used the single-cell spatial transcriptome technique combined 
 - Use Phylomcl and MCScanX combined with four stages’ gene expression information to identify temporal differentially expressed gene families.  
 
 **Fudan University** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; September 2020 - March 2022  
-*Researcher* **under Qi Ji**  
+*Researcher* **under Pro. Qi Ji**  
 **Project: Spatiotemporal atlas of organogenesis in development of orchid flowers**    
 In this study, We used spatial transcriptome technique combined with own designed clustering method based on both gene expression and space location and pseudotime analysis. Through innovative application of spatial transcription techniques in orchid flowers, We attempted to reconstruct a more convincing model of floral organ development.  
 - Traditional spatial transtriptome data workflow: Quality control; Normalization; PCA/U-MAP/T-SNE dimensional reduction; Own clustering method not yet published; Find marker gene; Cell type annotation; GO/KEGG analysis.  
 - We focused on genes involved in floral organ development and And observe their expression at different locations in different slices.   
 - Use Monocle3 to reconstruct flower development model and raise reasonable explanation by finding marker genes.  
+
+**Fudan University** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; September 2019 - December 2019  
+*Researcher* **under Pro. Weidong Tian**  
+**Project: Selecting the RNA Editing Sites in Gene Banks of Existing Species by Using Sprint**    
+In this study, the sprint method independently developed by our lab was used to search for RNA editing sites in animals including rabbits, humans and chickens, which could identify RNA editing sites without consulting the SNP database of the species.  
+- Collected and extracted the RNA sequencing results of each species from online; processed the RNA sequencing results to detect the readable RNA editing sites by applying Sprint.   
+- Compared the RNA editing sites detected with the RNA editing sites detected by using other methodologies like JACUSA and GIREMI.  
+- Selected some RNA tandem repeats with repeatability higher than 3 for different species to avoid misidentification as editable SNP sites.  
+
+**Fudan University** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; September 2017 - June 2018  
+*Researcher* **under Pro. Xiaohong Gong**  
+**Project: Locating the Lesion Spot of Mentally Ill Person’ Brain based on Analysis of Gene Sequences and Neuro-brain Imaging**    
+In this study, our goal was to provide new clues for pathway research of mental illness through studying the neuro-brain images and the samples of gene sequences from the clinical patients and detecting the relationship between the lesion spots and genotypes of different mental diseases.  
+- Applied Matlab program to analyze the brain image; detected the most concentrated lesion area.  
+- Successfully located the possible regions of pathogenic genes through correlation analysis.  
+- Searched the possible gene pathway based on the lesion areas located to provide guidance for future research.  
+
+---
+### EXTRACURRICULAR ACTIVITIES
 
 
 
