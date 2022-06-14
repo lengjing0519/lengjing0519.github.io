@@ -32,10 +32,24 @@ Currently writing / The first author
 *Molecular Psychiatry* / Accept / Co-author
 
 ---
-### RESEARCH EXPERIENCE
-**Fudan University** <p align="right"> September 2021 - June 2023 </p>                                                                   
-*Researcher* **under Qi Ji**
-**Project: Spatiotemporal atlas of organogenesis in development of orchid flowers**
+### RESEARCH EXPERIENCE  
+
+**Fudan University** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; September 2021 - June 2023  
+*Researcher* **under Qi Ji**  
+**Project: Analysis of functional differentiation of gene families in spatial transcriptome of mouse embryos**  
+In this study, we used the single-cell spatial transcriptome technique combined with own designed spatial dynamic programming method and clustering method based on both gene expression and space location. By integrating mouse embryo datasets at four stages with common data set, we are able to find functionally differentiated gene families , such as the HOX gene.  
+- Traditional spatial transtriptome data workflow: quality control; normalization; PCA/U-MAP/T-SNE dimensional reduction; own clustering method not yet published; find marker gene; cell type annotation; pseudotime and cell trajectory analysis; GO/KEGG analysis. 
+- Use own designed spatial dynamic programming method to identify spatially similar or differentially expressed gene families. 
+- Use Phylomcl and MCScanX combined with four stages’ gene expression information to identify temporal differentially expressed gene families.  
+
+**Fudan University** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; September 2020 - March 2022  
+*Researcher* **under Qi Ji**  
+**Project: Spatiotemporal atlas of organogenesis in development of orchid flowers**    
+In this study, We used spatial transcriptome technique combined with own designed clustering method based on both gene expression and space location and pseudotime analysis. Through innovative application of spatial transcription techniques in orchid flowers, We attempted to reconstruct a more convincing model of floral organ development.  
+- Traditional spatial transtriptome data workflow: Quality control; Normalization; PCA/U-MAP/T-SNE dimensional reduction; Own clustering method not yet published; Find marker gene; Cell type annotation; GO/KEGG analysis.  
+- We focused on genes involved in floral organ development and And observe their expression at different locations in different slices.   
+- Use Monocle3 to reconstruct flower development model and raise reasonable explanation by finding marker genes.  
+
 
 
 
