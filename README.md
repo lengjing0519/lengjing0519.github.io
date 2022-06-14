@@ -29,7 +29,10 @@ Currently writing / The first author
 **A recurrent SHANK1 mutation implicated in autism spectrum disorder causes autistic-like core behaviors in mice via downregulation of mGluR1-IP3R1-calcium signaling** \
 *Molecular Psychiatry* / Accept / Co-author
 
-###
+### RESEARCH EXPERIENCE
+**Fudan University** <p align="right"> September 2021 - June 2023 </p>                                                                   
+*Researcher* **under Qi Ji**
+**Project: Spatiotemporal atlas of organogenesis in development of orchid flowers**
 
 
 
