@@ -4,37 +4,32 @@ No.2005, Songhu Road, Shanghai, China | +86-13220929029 | 20210700129@fudan.edu.
 
 <div align=left>
 <img src="https://github.com/lengjing0519/lengjing0519.github.io/blob/ed9307e17e89a086e89c1936d33cf193f82047c0/personal%20identification%20photo.jpg" width=300 height=300 />
-<im a boy>
 </div>
   
-### Markdown
+### EDUCATION
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Fudan University**, Shanghai, China\
+September 2020 – June 2023 (Expected)\
+Master of Science in **Bioinformatics**\
+**Awards: Excellent Student Scholarship** (2020-2021)
 
-```markdown
-Syntax highlighted code block
+**Fudan University**, Shanghai, China \
+September 2016 – June 2020\
+Bachelor of Science in **Biological Sciences** \
+**Awards: Third-class Merit-based Scholarship for Undergraduate Students** (2017-2018; 2018-2019)
 
-# Header 1
-## Header 2
-### Header 3
+### PAPER
 
-- Bulleted
-- List
+**Analysis of functional differentiation of gene families in spatial transcriptome of mouse embryos**\
+Currently writing / The first author 
 
-1. Numbered
-2. List
+**Spatiotemporal atlas of organogenesis in development of orchid flowers**\
+*Nucleic Acids Research* / Minor revision / The second author 
 
-**Bold** and _Italic_ and `Code` text
+**A recurrent SHANK1 mutation implicated in autism spectrum disorder causes autistic-like core behaviors in mice via downregulation of mGluR1-IP3R1-calcium signaling** \
+*Molecular Psychiatry* / Accept / Co-author
 
-[Link](url) and ![Image](src)
-```
+###
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lengjing0519/lengjing0519.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
