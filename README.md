@@ -69,9 +69,9 @@ In this study, our goal was to provide new clues for pathway research of mental 
 ---
 ### EXTRACURRICULAR ACTIVITIES  
 
-**Volunteer**, Zujia Museum, Fudan University &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; September 2019 - December 2019  
+**Volunteer**, Zujia Museum, Fudan University &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; September 2019 - December 2019  
 - Volunteered in Zujia museum; guided and interpreted for the visitors; won the Excellent Volunteer Certificate.  
 
-**Member**, T.F Cosplay Society, Fudan University &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; September 2017 - January 2019  
-- Participated in the $20^th$ Shanghai Comic Up competition and entered the final; prepared for and performed on major school events
+**Member**, T.F Cosplay Society, Fudan University &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; September 2017 - January 2019  
+- Participated in the 20^th^ Shanghai Comic Up competition and entered the final; prepared for and performed on major school events
 
