@@ -78,7 +78,7 @@ In this study, our goal was to provide new clues for pathway research of mental 
 **Minster**, Arts Division, Student Union, Fudan University &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; February 2017 - July 2017  
 - Outreached for school activities; supported other departments in major activities; won the Excellent Cadre.  
 
-**Conductor**, Shanghai Urban Planning Exhibition Hall, Student Union, Fudan University &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; September 2016 - June 2017  
+**Conductor**, Shanghai Urban Planning Exhibition Hall, Student Union, Fudan University &emsp; &emsp; &emsp; &emsp; &emsp; September 2016 - June 2017  
 - Volunteer at the venue; guided and introduced for the visitors; received the volunteer certificate.
 
 ---
