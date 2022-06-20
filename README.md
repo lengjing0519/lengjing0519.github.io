@@ -84,9 +84,9 @@ In this study, our goal was to provide new clues for pathway research of mental 
 ---
 ### SKILLS & INTERESTS  
 
-**Computer:** Linux, Python, R programming, Matlab, Blast, Mcscanx, Diamond, phylomcl, Microsoft Office, Mega, PowerLab Software, E-Prime, Image-J, SPSS    
+**Computer:** Linux, Python, R, Matlab  
 
-**Technical:** Single cell sequencing analysis, Gene family analysis, Spatial transcriptome analysis, ,Centrifuge, UV-VIS Spectrometer, Fluorescence Spectrometer, Fluorescence Microscope, PowerLab Hardware, Agarose Gel apparatus, Microbial RGB kit    
+**Technical:** Single cell sequencing analysis,  Spatial transcriptome analysis, Gene family analysis, WGCNA analysis    
 
-**Interests:** Chess (National Level II), Badminton, Sketch, Watercolor (more than 6 years practice and training)
+**Interests:** Chess (National Level II), Badminton, Painting (more than 6 years practice and training)
 
