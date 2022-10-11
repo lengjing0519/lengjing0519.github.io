@@ -16,17 +16,14 @@ Master of Science in **Bioinformatics**\
 
 **Fudan University**, Shanghai, China \
 September 2016 – June 2020\
-Bachelor of Science in **Biological Sciences** \
+Bachelor of Science in **Biology** \
 **Awards: Third-class Merit-based Scholarship for Undergraduate Students** (2017-2018; 2018-2019)
 
 ---
 ### PAPER
 
-**Analysis of functional differentiation of gene families in spatial transcriptome of mouse embryos**\
-Currently writing / The first author 
-
 **Spatiotemporal atlas of organogenesis in development of orchid flowers**\
-*Nucleic Acids Research* / Minor revision / The second author 
+*Nucleic Acids Research* / Accept / The second author 
 
 **A recurrent SHANK1 mutation implicated in autism spectrum disorder causes autistic-like core behaviors in mice via downregulation of mGluR1-IP3R1-calcium signaling** \
 *Molecular Psychiatry* / Accept / Co-author
