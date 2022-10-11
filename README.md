@@ -22,7 +22,7 @@ Bachelor of Science in **Biology** \
 ---
 ### PAPER
 
-**Spatiotemporal atlas of organogenesis in development of orchid flowers**\
+**A Spatiotemporal atlas of organogenesis in development of orchid flowers**\
 *Nucleic Acids Research* / Accept / The second author 
 
 **A recurrent SHANK1 mutation implicated in autism spectrum disorder causes autistic-like core behaviors in mice via downregulation of mGluR1-IP3R1-calcium signaling** \
@@ -43,9 +43,9 @@ In this study, we applied spatial transcriptome technique combined with self-des
 *Researcher* **under Pro. Qi Ji**  
 **Project: A Spatiotemporal atlas of organogenesis in development of orchid flowers**    
 In this study, we innovatively applied spatial transcriptome technique on the organogenesis in buds of orchid flowers. After conquering the difficulties of adjusting experimental conditions and identifying differentially expressed genes, We succeeded to reconstruct a convincing model of floral organ development.  
-- Traditional spatial transtriptome data workflow: Quality control; Normalization; PCA/U-MAP/T-SNE dimensional reduction; Own clustering method not yet published; Find marker gene; Cell type annotation; GO/KEGG analysis.  
-- We focused on genes involved in floral organ development and And observe their expression at different locations in different slices.   
-- Use Monocle3 to reconstruct flower development model and raise reasonable explanation by finding marker genes.  
+- Conducted traditional spatial transcriptome data workflow: Quality control; Normalization; PCA/U-MAP/T-SNE dimensional reduction; our own clustering method not yet published; Find marker gene; Cell type annotation; GO/KEGG analysis.  
+- Focused on specific genes involved in floral organ development and observed their expression at different locations in different slices.    
+- Applied Monocle3 to reconstruct flower development model and established a reasonable model.
 
 **Fudan University** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; September 2019 - December 2019  
 *Researcher* **under Pro. Weidong Tian**  
