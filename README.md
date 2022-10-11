@@ -20,7 +20,7 @@ Bachelor of Science in **Biology** \
 **Awards: Third-class Merit-based Scholarship for Undergraduate Students** (2017-2018; 2018-2019)
 
 ---
-### PAPER
+### PUBLICATION
 
 **A Spatiotemporal atlas of organogenesis in development of orchid flowers**\
 *Nucleic Acids Research* / Accept / The second author 
