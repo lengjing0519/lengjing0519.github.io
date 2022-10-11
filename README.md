@@ -26,7 +26,7 @@ Bachelor of Science in **Biology** \
 *Nucleic Acids Research* / Accept / The second author 
 
 **A recurrent SHANK1 mutation implicated in autism spectrum disorder causes autistic-like core behaviors in mice via downregulation of mGluR1-IP3R1-calcium signaling** \
-*Molecular Psychiatry* / Accept / Co-author
+*Molecular Psychiatry* / Accept / The seventh author
 
 ---
 ### RESEARCH EXPERIENCE  
