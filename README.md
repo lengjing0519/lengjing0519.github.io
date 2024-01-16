@@ -11,7 +11,7 @@ No.2005, Songhu Road, Shanghai, China | +86-13220929029 | 20210700129@fudan.edu.
 
 **Johns Hopkins University**, Baltimore, America\
 September 2023 – June 2025(expected)\
-Master of Science in **Bioinformatics**\
+Master of Science in **Bioinformatics**
 
 **Fudan University**, Shanghai, China\
 September 2020 – June 2023\
