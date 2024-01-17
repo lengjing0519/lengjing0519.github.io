@@ -87,7 +87,7 @@ In this study, our goal was to provide new clues for pathway research of mental 
 
 **Computer:** Linux, Python, R, Matlab  
 
-**Technical:** Single cell sequencing analysis,  Spatial transcriptome analysis, Gene family analysis, WGCNA analysis    
+**Technical:** Single cell sequencing analysis,  Spatial transcriptome analysis, Chip-seq analysis, SNP analysis, Phylogenetic analysis, WGCNA analysis    
 
 **Interests:** Chess (National Level II), Badminton, Painting (more than 6 years practice and training)
 
